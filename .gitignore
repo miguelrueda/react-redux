@@ -1,0 +1,17 @@
+node_modules
+
+build
+
+.lock-wscript
+
+.grunt
+
+coverage
+
+lib-coverage
+pids
+
+*.pid
+*.seed
+
+package-lock.json
