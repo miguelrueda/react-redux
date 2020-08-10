@@ -15,3 +15,5 @@ pids
 *.seed
 
 package-lock.json
+
+.DS_store
